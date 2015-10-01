@@ -1,0 +1,15 @@
+*{
+	margin: 2px;
+	padding: 2px;
+}
+body{
+	font-family: 'Arial', sans-serif;
+	background-color: yellow;
+}
+h2{
+	padding: 8px;
+}
+h3{
+	color:red;
+	padding: 8px;
+}

@@ -1,0 +1,11 @@
+body{
+	font-family: 'Arial', sans-serif;
+}
+.enlance_redes{
+	padding: .5em;
+	display: block;
+	background-color: aqua;
+	color: white;
+	width: 100px;
+	text-align: center;
+}
